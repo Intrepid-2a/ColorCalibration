@@ -43,7 +43,7 @@ blue_col   = [ 0.5, -1.0, -1.0] # these are flipped
 
 
 ## path
-data_path = "../data/mapping/"
+data_path = "../data/color/"
 
 ## files
 # expInfo = {'ID':'XXX', 'track eyes':['both','left','right'], 'Glasses':['RB', 'RG']}

@@ -10,3 +10,5 @@ The middle dots should be flickering. Either the top-left and bottom-right or vi
 
 - Up-down: controls green
 - Left-right: controls red
+
+Press `space` to finish colour calibration and write the values to `..\data\color\XXX_col_cal_#.txt` where XXX is the participant ID, and # is the number of calibration attempts. The highest numbered calibration will be used by other tasks.
