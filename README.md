@@ -1,3 +1,5 @@
+**warning:** _deprecated code_ (will be deleted)
+
 # Colour Calibration
 
 Calibrate colors to present stimuli to one eye only for participants wearing red-green glasses.
